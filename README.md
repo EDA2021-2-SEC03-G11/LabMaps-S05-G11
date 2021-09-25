@@ -1,5 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
+Estudiante 1: Santiago Garavito - s.garavitor@uniandes.edu.co - 201716308
+Estudiante 2: Briseth Rodriguez - b.rodriguezt@uniandes.edu.co - 202116910
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
